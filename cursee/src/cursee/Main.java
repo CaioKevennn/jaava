@@ -1,4 +1,4 @@
-package p1;
+package cursee;
 
 public class Main {
 

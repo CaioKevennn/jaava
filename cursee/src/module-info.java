@@ -4,5 +4,5 @@
 /**
  * 
  */
-module cursoo {
+module cursee {
 }
