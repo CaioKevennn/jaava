@@ -17,7 +17,7 @@ public class aplication {
 		int quantaty = sc.nextInt();
 		Product2 product  = new Product2 (name,price,quantaty);
 		
-		System.out.println(product.toString());
+		System.out.println(product);
 		System.out.println("Enter the number of products to be added in stock");
 		quantaty = sc.nextInt();
 		product.AddProducts(quantaty);
